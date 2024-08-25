@@ -16,6 +16,7 @@
 
 ## 🛠️ [Technologies]
 - **Open JDK 17**:
+- **SpringBoot v3.3.2(Stable)**:
 - **Gradle**:
 - **Lombok**: 
 - **Swagger**: 
