@@ -16,11 +16,12 @@
 
 ## 🛠️ [Technologies]
 - **Open JDK 17**:
-- **SpringBoot v3.3.2(Stable)**:
+- **SpringBoot v3.3.3(Stable)**:
+- **SpringJPA**:
 - **Gradle**:
 - **Lombok**: 
 - **Swagger**: 
-- **MariaDB**: 
+- **MariaDB v10.11.2.0**: 
 <br/>
 
 ## ⚙️ [Instructions]
